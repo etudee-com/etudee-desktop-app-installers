@@ -1,1 +1,1 @@
-# Etudee Desktop Plugin Installers
+# Etudee Desktop App Installers
